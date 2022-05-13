@@ -9,7 +9,9 @@ This is a bot to search much popularbars and clubs.
 
 [sqlighter.py](https://github.com/Hugref/Telegram_bot/blob/89a90bee7da5aa8c6893b5a8f4dbd0f6246731ea/sqlighter.py) [sqlighter1.py](https://github.com/Hugref/Telegram_bot/blob/89a90bee7da5aa8c6893b5a8f4dbd0f6246731ea/sqlighter1.py) - files with classes for users and for Moscow bars
 
-[parser.py](https://github.com/Hugref/Telegram_bot/blob/89a90bee7da5aa8c6893b5a8f4dbd0f6246731ea/parser.py) - file for parse site with bars and 
+[parser.py](https://github.com/Hugref/Telegram_bot/blob/89a90bee7da5aa8c6893b5a8f4dbd0f6246731ea/parser.py) - file for parse site with bars and load to database
+
+db_bars and db_users  - database for bars and users
 
 [keyboards.py](https://github.com/Hugref/Telegram_bot/blob/89a90bee7da5aa8c6893b5a8f4dbd0f6246731ea/keyboards.py) - file with specialised keyboards for users to get easy with the content
 
